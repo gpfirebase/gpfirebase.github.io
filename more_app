@@ -1,0 +1,14 @@
+[
+  { "appName":"Live Wallpapers",
+    "appIcon":"https://lh3.googleusercontent.com/mvhtfs3lEECnr3Jy6W9rnkssNhTLsbKeG8iGYLsFDYpB9v-V4nSeGPS_y4abraEevq84=s180-rw",
+    "appUrl":"https://play.google.com/store/apps/details?id=com.holyhoo.apps.pocketpicture"
+  },
+  { "appName":"Cute Girl Photo",
+    "appIcon":"https://lh3.googleusercontent.com/kgAxnpvKdTVwgSvsVo7FIimw9bQES1rM7d46jz-ZeZHBBk9sh7fJIPmu2lBOFSjKqpc=s180-rw",
+    "appUrl":"https://play.google.com/store/apps/details?id=com.holyhoo.cute.photo"
+  },
+  { "appName":"Downloader for Pinterest",
+    "appIcon":"https://lh3.googleusercontent.com/_n-8SUQjQkIVlOCiWLPvnn3lqLl6fGU5RxegOdRfBdNn1G6rAD5cJhwfhW1BEdtJPzQ=s180-rw",
+    "appUrl":"https://play.google.com/store/apps/details?id=com.holyhoo.video.downloader.pinterest"
+  }
+]
